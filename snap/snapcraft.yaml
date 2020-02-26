@@ -19,4 +19,5 @@
       
   architectures:
    - build-on: [s390x, arm64]
+     run-on: [s390x, arm64]
   
