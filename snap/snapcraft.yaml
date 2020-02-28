@@ -18,6 +18,6 @@
       plugin: nil
       
   architectures:
-     build-on: [amd64, arm64]
-     run-on: [amd64, arm64]
+     build-on: [s390x, arm64]
+     run-on: [s390x, arm64]
   
